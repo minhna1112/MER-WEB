@@ -8,7 +8,7 @@ einops>=0.3.0
 chardet>=3.0.4
 x_transformers==0.15.0
 imagesize>=1.2.0
-transformers==4.2.2
+transformers==4.48.0
 tokenizers==0.9.4
 numpy>=1.19.5
 Pillow>=8.1.0
