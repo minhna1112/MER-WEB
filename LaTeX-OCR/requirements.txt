@@ -3,7 +3,7 @@ munch>=2.5.0
 #torch>=1.7.1
 #torchvision>=0.8.1
 opencv_python_headless>=4.1.1.26
-requests>=2.22.0
+requests>=2.32.4
 einops>=0.3.0
 chardet>=3.0.4
 x_transformers==0.15.0
@@ -24,3 +24,4 @@ PyQt5
 PyQtWebEngine
 pynput
 screeninfo
+torch>=2.7.1 # not directly required, pinned by Snyk to avoid a vulnerability
